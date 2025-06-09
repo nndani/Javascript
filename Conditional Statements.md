@@ -1,0 +1,1 @@
+Conditional statements are responsible of execution of the code on the basis of satisfied condition.
